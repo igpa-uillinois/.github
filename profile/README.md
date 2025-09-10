@@ -5,7 +5,8 @@
 ---
 
 ## About This Project
-Illinois has struggled for decades with persistent fiscal pressures. Fiscal Futures tracks and analyzes:
+
+Illinois has struggled for decades with persistent fiscal pressures. Fiscal Futures tracks and analyzes the Fiscal Gap. It also dives into the  data for each of these topics:
 - Own-source revenues and federal transfers  
 - Medicaid, healthcare, and social spending  
 - Pensions, debt, and tax refunds  
@@ -17,9 +18,9 @@ This repository contains the datasets and analysis code that power the Fiscal Fu
 
 ## Origins and Stewardship
 
-This project was **founded and developed by David Merriman and Richard Funderberg**
+This project was **founded and developed by David Merriman and Richard Dye**
 
-The documentation, website, and data structure was created by **Alea Wilbur-Mujtaba**, who continues to contribute analysis, code, and reports.  
+The documentation, website, and data structure was created by **Alea Wilbur-Mujtaba**, who continues to contribute analysis, code, and reports.  Many PhD students have contributed to collecting the data each year and assisted with past reports.
 
 The **Institute of Government and Public Affairs (IGPA), University of Illinois**, serves as the institutional steward of Fiscal Futures. IGPA will also host additional research projects across public finance, policy, and governance. 
 
@@ -33,9 +34,8 @@ The **Institute of Government and Public Affairs (IGPA), University of Illinois*
 ---
 
 ## Outputs
-- [Fiscal Futures Reports (via IGPA website)](https://igpa.uillinois.edu)  
-- [Latest Report: Illinois FY2024 Fiscal Summary](#)  
-- Archives of prior reports and slides are available in `/reports/`.  
+- [Past Fiscal Futures Reports (via IGPA website)](https://igpa.uillinois.edu)  
+- [Forthcoming: Illinois FY2025 Fiscal Summary](https://igpa-uillinois.github.io/Fiscal-Futures/fy25_revenue_report.html)  
 
 ---
 
